@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@adobe/lit-mobx": "./@adobe/lit-mobx.js?rev=b55222428c",
+    "canvas-confetti": "./canvas-confetti.js?rev=80d193a519",
+    "lit-confetti": "./lit-confetti.js?rev=421f954462",
+    "lit-element": "./lit-element.js?rev=db26ba5501",
+    "mobx": "./mobx.js?rev=e1bb0d3ed2"
+  }
+}

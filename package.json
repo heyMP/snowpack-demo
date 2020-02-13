@@ -1,0 +1,13 @@
+{
+  "name": "snowpack-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adobe/lit-mobx": "^0.0.2",
+    "canvas-confetti": "^1.0.3",
+    "lit-confetti": "^0.1.5",
+    "lit-element": "^2.2.1",
+    "mobx": "^5.15.4"
+  }
+}
